@@ -1,0 +1,13 @@
+@import "style.css";
+.director_img{
+    width: 20rem;
+    border-radius: 10px;
+    cursor: pointer;
+    box-shadow: 4px 4px 10px gray;
+}
+.our_speciality_card{
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: var(--theme-color);
+    box-shadow: 4px 4px 4px rgb(58, 58, 58);
+}
